@@ -14,7 +14,6 @@ public class Program {
 //   Ex3.main3();
 //   Ex4.main4();
 //   Ex5.main5();
-    
     Ex6.main6();
   }
 }
