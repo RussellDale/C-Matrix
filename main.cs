@@ -16,6 +16,5 @@ public class Program {
 //   Ex5.main5();
     
     Ex6.main6();
-    
   }
 }
